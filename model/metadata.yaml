@@ -1,7 +1,7 @@
-description: Ultralytics YOLOv8x-cls model trained on /content/Pathora-AI-6
+description: Ultralytics YOLOv8l-cls model trained on /content/Pathora-AI-1
 author: Ultralytics
 license: AGPL-3.0 https://ultralytics.com/license
-date: '2024-09-15T07:09:12.953303'
+date: '2024-10-10T01:35:34.194413'
 version: 8.0.196
 stride: 1
 task: classify
